@@ -9,6 +9,7 @@ proc-macro = true
 
 [dependencies]
 axum = "0.6"
+anyhow = "1.0.68"
 darling = "0.13"
 proc-macro2 = "1.0"
 quote = "1.0"
